@@ -1,8 +1,20 @@
 require_relative "../lib/kid.rb"
 require_relative "../lib/dancer.rb"
 
-angelina = Kid.new("Angelina")
-mikhail_baryshnikov = Dancer.new("Mikhail")
+#angelina = Kid.new("Angelina")
+#mikhail_baryshnikov = Dancer.new("Mikhail")
 
-puts "#{angelina.name} says: #{angelina.twirl}"
-puts "#{mikhail_baryshnikov.name} says: #{mikhail_baryshnikov.take_a_bow}"
+#puts "#{angelina.name} says: #{angelina.twirl}"
+#puts "#{mikhail_baryshnikov.name} says: #{mikhail_baryshnikov.take_a_bow}"
+
+
+#puts Kid.metadata
+#puts Dancer.metadata
+
+angelina = Dancer.new
+angelina.twirl
+# returns "I'm twirling!"
+angelina.jump
+# returns "Look how high I'm jumping!"
+ 
+ 
