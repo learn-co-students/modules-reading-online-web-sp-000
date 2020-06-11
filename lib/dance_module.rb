@@ -1,3 +1,6 @@
+require_relative './class_methods_module.rb'
+
+
 module Dance
     def twirl
         "I'm twirling!"
