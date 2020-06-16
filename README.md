@@ -1,4 +1,4 @@
-# Modules and Mixins in Ruby
+## Modules and Mixins in Ruby
 
 ## Objectives
 
