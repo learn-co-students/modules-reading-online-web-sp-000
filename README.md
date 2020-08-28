@@ -1,6 +1,6 @@
 # Modules and Mixins in Ruby
 
-## Objectives
+## Objectives 
 
 1. Learn about modules––another way to lend functionality across classes.
 
